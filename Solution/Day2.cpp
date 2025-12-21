@@ -1,6 +1,6 @@
 // Write a program that uses a do-while loop to find the factorial of a given number.
 
-//Solution
+//Solution.
 #include <iostream>
 using namespace std;
 int main() {

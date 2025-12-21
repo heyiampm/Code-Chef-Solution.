@@ -1,4 +1,4 @@
-// Find the number of digits.Given an integer N, Calculate and print the number of digits present in N.
+// Find the number of digits. Given an integer N, Calculate and print the number of digits present in N.
 
 //Solution.
 #include <iostream>
