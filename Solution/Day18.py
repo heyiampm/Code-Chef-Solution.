@@ -1,6 +1,6 @@
 #Python while loop arithmetic program.
-t = int(input())
 
+t = int(input())
 while t > 0:
           x = int(input())
           distance = 2*x*5
