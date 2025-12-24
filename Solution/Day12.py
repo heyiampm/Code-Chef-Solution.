@@ -1,4 +1,4 @@
-
+#Python program to classify a number as positive, negative, or zero.
 
 num = int(input())
 

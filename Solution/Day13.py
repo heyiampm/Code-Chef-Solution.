@@ -1,4 +1,4 @@
-
+#Python program to determine if a number is positive, zero, or negative.
 
 num = float(input("Enter the number: "))
 

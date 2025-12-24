@@ -1,4 +1,5 @@
-
+#A Python program that checks the user’s input marks and prints a letter grade using if,
+#elif, and else statements.
 
 marks = int(input())
 if marks >90:
