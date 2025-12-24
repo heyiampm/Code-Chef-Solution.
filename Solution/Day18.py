@@ -1,4 +1,4 @@
-
+#Python while loop arithmetic program.
 t = int(input())
 
 while t > 0:
