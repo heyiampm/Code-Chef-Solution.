@@ -1,4 +1,4 @@
-Day-Of-Week Finder
+//Day-Of-Week Finder
 
 #include <stdio.h>
 
@@ -22,6 +22,5 @@ int main() {
     } else {
         printf("Invalid day number.");
     }
-
     return 0;
 }
